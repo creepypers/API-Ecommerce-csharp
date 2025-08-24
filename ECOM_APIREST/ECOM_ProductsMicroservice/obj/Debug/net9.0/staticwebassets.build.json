@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2JwxZqPMuH4fg8nhkmPvnmgh4tsZkv1EqjWokXKLFVs=",
+  "Source": "ECOM_ProductMicroService",
+  "BasePath": "_content/ECOM_ProductMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

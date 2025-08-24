@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3VmpAmvnkk5A59AFXq32MLM8Fe2DlUamYcxooX0mTdc=",
+  "Source": "ECOM_AuthentificationMicroservice",
+  "BasePath": "_content/ECOM_AuthentificationMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

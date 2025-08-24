@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wfucr4jjdXr7XeIQyIF79piSw2+HNiIM6vyUJvH+CKg=",
+  "Source": "ECOM_Gateway",
+  "BasePath": "_content/ECOM_Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

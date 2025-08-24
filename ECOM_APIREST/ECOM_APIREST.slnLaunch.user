@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "Nouveau profil",
+    "Projects": [
+      {
+        "Path": "ECOM_UtilisateurMicroservice\\ECOM_UtilisateurMicroservice.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ECOM_ProductsMicroservice\\ECOM_ProductMicroService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ECOM_PayementMicroservice\\ECOM_PayementMicroservice.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ECOM_PanierMicroservice\\ECOM_PanierMicroservice.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ECOM_Gateway\\ECOM_Gateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ECOM_CommandesMicroservice\\ECOM_CommandesMicroservice.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ECOM_AuthentificationMicroservice\\ECOM_AuthentificationMicroservice.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

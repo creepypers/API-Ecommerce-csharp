@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PSOBj8UW++SGuvH/ayaH8Sjg8pPgzLhx2CUtQgOHZcQ=",
+  "Source": "ECOM_PanierMicroservice",
+  "BasePath": "_content/ECOM_PanierMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

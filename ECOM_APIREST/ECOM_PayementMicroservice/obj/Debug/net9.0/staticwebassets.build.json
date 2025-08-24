@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8Iaazsl7tYMg0Bnu89Wem6jzpyaK2JLfYSt38h4w4Ec=",
+  "Source": "ECOM_PayementMicroservice",
+  "BasePath": "_content/ECOM_PayementMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

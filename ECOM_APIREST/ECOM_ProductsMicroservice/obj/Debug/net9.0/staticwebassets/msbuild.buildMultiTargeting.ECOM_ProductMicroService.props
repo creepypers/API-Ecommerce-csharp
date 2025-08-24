@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ECOM_ProductMicroService.props" />
+</Project>
