@@ -7,13 +7,13 @@
   },
   "AllowedHosts": "*",
   "Jwt": {
-    "SecretKey": "%JWT_SECRET_KEY%",
-    "Issuer": "%JWT_ISSUER%",
-    "Audience": "%JWT_AUDIENCE%"
+    "SecretKey": "YOUR_JWT_SECRET_KEY_HERE",
+    "Issuer": "YOUR_JWT_ISSUER_HERE",
+    "Audience": "YOUR_JWT_AUDIENCE_HERE"
   },
   "Stripe": {
-    "SecretKey": "%STRIPE_SECRET_KEY%",
-    "PublishableKey": "%STRIPE_PUBLISHABLE_KEY%"
+    "SecretKey": "YOUR_STRIPE_SECRET_KEY_HERE",
+    "PublishableKey": "YOUR_STRIPE_PUBLISHABLE_KEY_HERE"
   },
   "OrderService": {
     "BaseUrl": "http://localhost:8004"

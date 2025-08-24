@@ -1,0 +1,50 @@
+# Variables d'environnement
+.env
+.env.local
+.env.development
+.env.production
+*.env
+
+# Fichiers de configuration sensibles
+appsettings.Production.json
+appsettings.Staging.json
+secrets.json
+
+# Fichiers de build
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio
+.vs/
+*.sln.docstates
+*.userprefs
+
+# Logs
+logs/
+*.log
+
+# Base de données
+*.db
+*.mdf
+*.ldf
+
+# Fichiers temporaires
+*.tmp
+*.temp
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
